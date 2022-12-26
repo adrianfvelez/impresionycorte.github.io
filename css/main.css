@@ -1,0 +1,50 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-image: url('https://static.wixstatic.com/media/6ce6ea_fa7ed7aaf95b4e688009fa38cb1f3729.png/v1/fill/w_1112,h_1163,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/6ce6ea_fa7ed7aaf95b4e688009fa38cb1f3729.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-family: 'Jura', sans-serif;
+}
+
+.color-fuente {
+    color: #666660;
+}
+
+.color-fuente-claro {
+    color: #8C8C88;
+}
+
+.fuente-oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+.fuente-helvetica {
+    font-family: 'helvetica', sans-serif;
+}
+
+.fuente-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.contenedor {
+    background-color: white;
+    height: max-content;
+    width: fit-content;
+    padding: 1rem;
+}
+
+@media (max-width: 575px) {
+    html {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 1199px){
+    html {
+        font-size: 14px;
+    }
+}
