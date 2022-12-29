@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/impresion-digital", {data:[{}],fetch:{},mutations:void 0});

@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image: url('https://static.wixstatic.com/media/6ce6ea_fa7ed7aaf95b4e688009fa38cb1f3729.png/v1/fill/w_1112,h_1163,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/6ce6ea_fa7ed7aaf95b4e688009fa38cb1f3729.png');
+    background-image: url('/images/fondo.webp');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
